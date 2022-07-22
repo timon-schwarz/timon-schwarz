@@ -15,7 +15,7 @@
 ### 🛠 Technology
 
 <p align="center">
-  <img alt="Cisco" src="https://img.shields.io/badge/test-Cisco-lightgrey?color=1BA0D7&logo=cisco" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <p align="center">
 
 
