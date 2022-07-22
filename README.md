@@ -15,8 +15,7 @@
 ### 🛠 Technology
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Timon-Schwarz/Timon-Schwarz/main/icons/cisco.svg" alt="Cisco" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">/p>
+  <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-lightgrey?color=#1BA0D7&logo=cisco" />
 <p align="center">
 
 
