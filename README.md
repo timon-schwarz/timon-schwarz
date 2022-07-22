@@ -14,7 +14,7 @@
 
 ### 🛠 Technology
 
-<p style="padding:0px">
+<p style="padding:0px" width="500">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Cisco" src="https://img.shields.io/badge/Cisco-121011?style=for-the-badge&logo=cisco&logoColor=1BA0D7" height="30" style="align:left;margin:0px;" />
 <img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-121011?style=for-the-badge&logo=fortinet&logoColor=EE3124" height="30" style="align:right;margin:0px;" />
 
