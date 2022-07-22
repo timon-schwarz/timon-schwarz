@@ -15,14 +15,14 @@
 ### 🛠 Technology
 
 <p align="center">
-  <img alt="Cisco" src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-121011?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-121011?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-121011?style=for-the-badge&powersell&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-121011?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-121011?style=for-the-badge&logo=cisco" />
+  <img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-121011?style=for-the-badge&logo=fortinet" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-121011?style=for-the-badge&logo=windows" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-121011?style=for-the-badge&powersell" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-121011?style=for-the-badge&logo=java" />
 <p align="center">
 
 
