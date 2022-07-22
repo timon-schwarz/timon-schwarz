@@ -31,4 +31,5 @@
 
 
 ### 🤝 Connect with Me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/timon-schwarz/"><img alt="Java" src="https://img.shields.io/badge/LinkedIn-121011?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="30" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/timon-schwarz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-121011?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="30" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:timon.general@gmail.com"><img alt="E-Mail" src="https://img.shields.io/badge/E\-Mail-121011?style=for-the-badge&logo=gmail&logoColor=EA4335" height="30" /></a>
