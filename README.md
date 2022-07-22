@@ -40,4 +40,4 @@
 
 ### 🤝 Connect with me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/timon-schwarz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-121011?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:timon.general@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-121011?style=for-the-badge&logo=gmail&logoColor=EA4335" height="35" /></a>
+<a href="mailto:timon.general@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-121011?style=for-the-badge&logo=gmail&logoColor=EA4335" height="35" /></a>
