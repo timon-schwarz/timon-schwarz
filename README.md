@@ -38,10 +38,7 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Java" src="https://img.shields.io/badge/Java-121011?style=for-the-badge&logo=oracle" height="35" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="VMware" src="https://img.shields.io/badge/VMware-121011?style=for-the-badge&logo=vmware" height="35" />
-<img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-121011?style=for-the-badge&logo=proxmox" height="35" />
 </p>
 
 
