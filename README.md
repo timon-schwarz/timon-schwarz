@@ -6,9 +6,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐧&nbsp;&nbsp;Linux enthusiast
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇦🇹&nbsp;&nbsp;Winner of AustrianSkills 2020/21 IT Network Systems Administration competition 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗺️&nbsp;&nbsp;Medallion for Excelence Winner of WorldSkills 2022 IT Network Systems Administration competition 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗺️&nbsp;&nbsp;Participant of WorldSkills 2022 IT Network Systems Administration competition 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇦🇹&nbsp;&nbsp;Winner of AustrianSkills 2020/21 IT Network Systems Administration competition 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓&nbsp;&nbsp;HTL Rennweg Network Technology graduate
 
