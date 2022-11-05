@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐧&nbsp;&nbsp;Linux enthusiast
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗺️&nbsp;&nbsp;Medallion for Excelence Winner of the WorldSkills 2022 IT Network Systems Administration competition 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆&nbsp;&nbsp;Medallion for Excelence Winner of the WorldSkills 2022 IT Network Systems Administration competition 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇦🇹&nbsp;&nbsp;Winner of the AustrianSkills 2020/21 IT Network Systems Administration competition 
 
