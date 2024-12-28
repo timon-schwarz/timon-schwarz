@@ -2,9 +2,9 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💻 **Aspiring network engineer at NTS Deutschland GmbH**
-- 🎓 **TU Munich informatics student**
-- 🐧 **Linux enthusiast**
+- 💻 **Aspiring network engineer** at NTS Deutschland GmbH
+- 🎓 **Informatics student** at TU Munich
+- 🐧 **Linux enthusiast** with passion
 - 🥈 **Vice European Champion** of the EuroSkills 2023 IT Network Systems Administration competition
 - 🏅 **Medallion for Excellence** at the WorldSkills 2022 IT Network Systems Administration competition
 - 🥇 **First place** at the AustrianSkills 2020/21 IT Network Systems Administration competition
