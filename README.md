@@ -3,8 +3,8 @@
 ## 👨🏻‍💻 About Me
 
 - 💻 **Aspiring network engineer at NTS Deutschland GmbH**
-- 🐧 **Linux enthusiast**
 - 🎓 **TU Munich informatics student**
+- 🐧 **Linux enthusiast**
 - 🥈 **Vice European Champion** of the EuroSkills 2023 IT Network Systems Administration competition
 - 🏅 **Medallion for Excellence** at the WorldSkills 2022 IT Network Systems Administration competition
 - 🥇 **First place** at the AustrianSkills 2020/21 IT Network Systems Administration competition
@@ -12,10 +12,13 @@
 
 ## 🛠 Technology
 
-| ![Cisco](https://img.shields.io/badge/Cisco-121011?style=for-the-badge&logo=cisco)    | ![Fortinet](https://img.shields.io/badge/Fortinet-121011?style=for-the-badge&logo=fortinet) |
-| ![Linux](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux)    | ![Python](https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python) |
-| ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash) | ![Ansible](https://img.shields.io/badge/Ansible-121011?style=for-the-badge&logo=ansible)
-| ![Java](https://img.shields.io/badge/Java-121011?style=for-the-badge&logo=oracle)     | ![VMware](https://img.shields.io/badge/VMware-121011?style=for-the-badge&logo=vmware) |
+| ![Cisco](https://img.shields.io/badge/Cisco-121011?style=for-the-badge&logo=cisco)       | ![Linux](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux)    | ![Fortinet](https://img.shields.io/badge/Fortinet-121011?style=for-the-badge&logo=fortinet) |   |   |
+|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---|---|
+| ![Python](https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python)    | ![Java](https://img.shields.io/badge/Java-121011?style=for-the-badge&logo=oracle)     | ![C](https://img.shields.io/badge/Language-121011?style=for-the-badge&logo=C)               |   |   |
+| ![Ansible](https://img.shields.io/badge/Ansible-121011?style=for-the-badge&logo=ansible) | ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash) | ![VMware](https://img.shields.io/badge/VMware-121011?style=for-the-badge&logo=vmware)       |   |   |
+|                                                                                          |                                                                                       |                                                                                             |   |   |
+
+
 
 ## 🤝 Connect with Me
 
